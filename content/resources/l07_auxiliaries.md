@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 54936944-addf-8629-7c85-fc89dccef285
 resourcetype: Document
 title: l07_auxiliaries.pdf
 uid: eb191071-51b4-0dca-d244-ae4c0363dd8e

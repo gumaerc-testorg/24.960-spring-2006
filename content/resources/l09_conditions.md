@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 54936944-addf-8629-7c85-fc89dccef285
 resourcetype: Document
 title: l09_conditions.pdf
 uid: e1a521fd-877d-bc06-898c-3477bb958854

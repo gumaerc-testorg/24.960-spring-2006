@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 54936944-addf-8629-7c85-fc89dccef285
 resourcetype: Document
 title: l02_hpsg2.pdf
 uid: b5984fbf-f1c7-d7b3-94d0-df6e8e7048ea

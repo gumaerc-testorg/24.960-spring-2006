@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 54936944-addf-8629-7c85-fc89dccef285
 resourcetype: Document
 title: l06_deriv_repres.pdf
 uid: 0d540556-d6ad-4225-2545-0129606c482d

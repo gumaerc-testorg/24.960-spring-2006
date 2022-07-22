@@ -7,6 +7,7 @@ file: /courses/24-960-syntactic-models-spring-2006/b5984fbff1c7d7b394d0df6e8e704
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: l02_hpsg2.pdf
 uid: b5984fbf-f1c7-d7b3-94d0-df6e8e7048ea
 ---
 Lecture notes about HPSG, infinitival complementation/a-bar dependencies, passive lexical rule, CP-complementation, subject control verbs, object control verbs, binding theory, and long-distance dependencies.
-

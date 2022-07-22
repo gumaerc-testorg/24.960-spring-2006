@@ -5,6 +5,7 @@ file: /courses/24-960-syntactic-models-spring-2006/99e36ef2eea816fd9c0363e162343
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: homework1.pdf
 uid: 99e36ef2-eea8-16fd-9c03-63e162343f6e
 ---
 Assignment consisting of 4 problems from the course textbook.
-

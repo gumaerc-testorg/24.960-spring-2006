@@ -9,10 +9,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: chp_building.jpg
 uid: 56df8415-917f-d95e-c64d-3c664ec843e1
 ---
 Entrance to D-wing of the old Building 20. (Photo by John F. Cook, copyright (c) MIT.)
-

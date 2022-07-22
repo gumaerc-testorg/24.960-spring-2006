@@ -5,6 +5,7 @@ file: /courses/24-960-syntactic-models-spring-2006/8984bb84d96c27d6365219d0c0c8b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: l03_lfg.pdf
 uid: 8984bb84-d96c-27d6-3652-19d0c0c8bcd3
 ---
 Lecture notes with an overview of the basic concepts of LFG.
-

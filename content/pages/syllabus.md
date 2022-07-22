@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides a course plot line, course requirements,
+  recommended citation, and a calendar of lecture topics.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 4baeb068-3a8d-be25-75ae-1aa3f9afae10
 ---

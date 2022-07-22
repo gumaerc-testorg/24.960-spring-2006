@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information about required readings, recommended
+  readings, and a schedule of readings by session.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 26ff259c-5ee9-c55e-04ea-9ce563e78375
 ---

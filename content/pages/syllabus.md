@@ -27,7 +27,7 @@ An overarching issue in linguistic theory that we can trace throughout most of t
 
 For any use or distribution of these materials, please cite as follows:
 
-David Pesetsky, course materials for 24.960 Syntactic Models, Spring 2006. MIT OpenCourseWare ({{% resource_link "58c0b525-fc34-494b-84ca-ab4fff869b37" "http://ocw.mit.edu/)" %}}, Massachusetts Institute of Technology. Downloaded on \[DD Month YYYY\].
+David Pesetsky, course materials for 24.960 Syntactic Models, Spring 2006. MIT OpenCourseWare ([http://ocw.mit.edu/)](https://ocw.mit.edu/), Massachusetts Institute of Technology. Downloaded on \[DD Month YYYY\].
 
 ## Calendar
 

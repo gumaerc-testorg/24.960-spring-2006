@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes about derivations/representations vs. English auxiliaries
   and main verbs.
-file: /courses/24-960-syntactic-models-spring-2006/eb19107151b40dcad244ae4c0363dd8e_l07_auxiliaries.pdf
+file: /ol-ocw-studio-app/courses/24-960-syntactic-models-spring-2006/eb19107151b40dcad244ae4c0363dd8e_l07_auxiliaries.pdf
 file_size: 155438
 file_type: application/pdf
 learning_resource_types:

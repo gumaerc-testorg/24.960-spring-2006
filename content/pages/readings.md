@@ -18,7 +18,7 @@ Sag, Ivan, Thomas Wasow, and Emily Bender. _Syntactic Theory: A Formal Introduct
 
 Chomsky, Noam. _Syntactic Structures_. 2nd ed. Berlin, Germany: Walter de Gruyter, 2002. ISBN: 9783110172799.
 
-{{% resource_link "0905269d-8e12-4dc5-931c-16ecc0a12e53" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Lasnik, Howard. {{% resource_link "0905269d-8e12-4dc5-931c-16ecc0a12e53" "_Syntactic Structures Revisited: Contemporary Lectures on Classic Transformational Theory_" %}}. Cambridge, MA: MIT Press, 2000. ISBN: 9780262122221.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262122221) Lasnik, Howard. [_Syntactic Structures Revisited: Contemporary Lectures on Classic Transformational Theory_](https://mitpress.mit.edu/9780262122221). Cambridge, MA: MIT Press, 2000. ISBN: 9780262122221.
 
 Recommended Readings
 --------------------
@@ -116,7 +116,7 @@ LFG 2: The overall system, modern developments
 Student presentation festival: HPSG and LFG papers
 {{< tdclose >}}
 {{< tdopen >}}
-Pick one NELS-length paper from the recent HPSG literature and one from the LFG literature (not necessarily related). Present and discuss. CSLI Online {{% resource_link "15e39e9f-8bcc-470e-bcd5-0c49cc850817" "HPSG" %}} and {{% resource_link "7d332081-1cc4-413c-854a-b6248c0b310b" "LFG Proceedings" %}}.
+Pick one NELS-length paper from the recent HPSG literature and one from the LFG literature (not necessarily related). Present and discuss. CSLI Online [HPSG](http://web.stanford.edu/group/cslipublications/cslipublications/HPSG/) and [LFG Proceedings](http://web.stanford.edu/group/cslipublications/cslipublications/LFG/).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -130,7 +130,7 @@ Non-derivational principles and parameters/minimalist grammars
 {{< tdopen >}}
 
 
-{{% resource_link "f64af8e9-3111-4628-a49f-2340b1bdcf39" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Brody, Michael. {{% resource_link "f64af8e9-3111-4628-a49f-2340b1bdcf39" "_Lexico-Logical Form_" %}}. Cambridge, MA: MIT Press, 1995, chapters 1 and 4. ISBN: 9780262522038.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262522038) Brody, Michael. [_Lexico-Logical Form_](https://mitpress.mit.edu/9780262522038). Cambridge, MA: MIT Press, 1995, chapters 1 and 4. ISBN: 9780262522038.
 
 DeKuthy, Kordula, and Walt Detmar Meurers. "On Partial Constituent Fronting in German." _Journal of Comparative Germanic Linguistics_ 3 (2001): 143-205.
 
@@ -152,7 +152,7 @@ History of analyses of the English auxiliary verb system: Derivations to represe
 
 Chomsky, Noam. _Syntactic Structures_. 2nd ed. Berlin, Germany: Walter de Gruyter, 2002. ISBN: 9783110172799.
 
-{{% resource_link "0905269d-8e12-4dc5-931c-16ecc0a12e53" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Lasnik, Howard. {{% resource_link "0905269d-8e12-4dc5-931c-16ecc0a12e53" "_Syntactic Structures Revisited: Contemporary Lectures on Classic Transformational Theory_" %}}. Cambridge, MA: MIT Press, 2000. ISBN: 9780262122221.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262122221) Lasnik, Howard. [_Syntactic Structures Revisited: Contemporary Lectures on Classic Transformational Theory_](https://mitpress.mit.edu/9780262122221). Cambridge, MA: MIT Press, 2000. ISBN: 9780262122221.
 
 
 {{< tdclose >}}
@@ -210,7 +210,7 @@ Chomsky, Noam. "Conditions on Transformations." In _A Festschrift for Morris Hal
 Student presentation festival: Generative semantics/interpretive semantics/conditions papers
 {{< tdclose >}}
 {{< tdopen >}}
-Pick a paper from the period in which {{% resource_link "3371b899-8e1b-4923-ba57-115f96d65ebe" "Generative Semantics" %}} was debating with Interpretive Semantics (or from a very slightly later period, in which the Conditions framework was starting to be discussed). Present it, and discuss it in light of more recent research.
+Pick a paper from the period in which [Generative Semantics](http://en.wikipedia.org/wiki/Generative_semantics) was debating with Interpretive Semantics (or from a very slightly later period, in which the Conditions framework was starting to be discussed). Present it, and discuss it in light of more recent research.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -224,7 +224,7 @@ The legacy of conditions: LFG, GPSG, and GB
 {{< tdopen >}}
 
 
-{{% resource_link "34fd2ff1-dc34-4146-b352-fface6d20798" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Bresnan, Joan. "A Realistic Transformational Grammar." In {{% resource_link "34fd2ff1-dc34-4146-b352-fface6d20798" "_Linguistic Theory and Psychological Reality_" %}}. Edited by Morris Halle, Joan Bresnan, and George A. Miller. Cambridge, MA: MIT Press, 1981, pp. 1-59. ISBN: 9780262580434.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262580434) Bresnan, Joan. "A Realistic Transformational Grammar." In [_Linguistic Theory and Psychological Reality_](https://mitpress.mit.edu/9780262580434). Edited by Morris Halle, Joan Bresnan, and George A. Miller. Cambridge, MA: MIT Press, 1981, pp. 1-59. ISBN: 9780262580434.
 
 Chomsky, Noam. _Lectures on Government and Binding_. Dordrecht, Holland: Foris Publications, 1981, chapters 1-2, pp. 1-135. ISBN: 9789070176280.
 
